@@ -59,4 +59,4 @@ Jogador 2 - Vida: 26, Fôlego: 10
 ```
 
 ## Autor
-Feito por [Seu Nome].
+Feito por [Lucas de Souza dos Santos Chaves].
